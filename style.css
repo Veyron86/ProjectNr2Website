@@ -35,7 +35,16 @@ body {
   nav li a:hover {
     background-color: #ddd;
   }
+  .show-more-btn {
+    background-color: rgb(242, 187, 86);
+  }
   
+  .close-paragraph {
+    display: none;
+  }
+  .myStyle {
+    display: block;
+  }
   main {
     margin: 20px;
   }
