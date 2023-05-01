@@ -81,5 +81,7 @@ body {
   .links-in-footer {
     display: flex;
     justify-content: space-around;
-    
+  }
+  .links-in-footer li {
+    list-style-type: none;
   }
