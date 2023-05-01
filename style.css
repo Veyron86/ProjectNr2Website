@@ -7,6 +7,8 @@ body {
     background-color: #81b9df;
     color: #fff;
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
     
   }
   
@@ -34,6 +36,10 @@ body {
   
   nav li a:hover {
     background-color: #ddd;
+  }
+  .logo {
+    height: 75px;
+    width: 75px;
   }
   .show-more-btn {
     background-color: rgb(242, 187, 86);
