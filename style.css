@@ -110,6 +110,30 @@ body {
   .details {
     font-weight: 600;
   }
+  .aboutMe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .photo {
+    width: 100%;
+  }
+  
+  .photo img {
+    height: 150px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    
+  }
+  .paragraph {
+    text-align: center;
+  }
+  .paragraph h2 {
+    padding-bottom: 15px;
+  }
   aside {
     float: right;
     width: 200px;
