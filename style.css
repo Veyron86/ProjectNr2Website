@@ -39,6 +39,7 @@ body {
   
   nav li a:hover {
     background-color: #ddd;
+    text-decoration: underline 3px rgb(242, 187, 86);
   }
   .logo {
     height: 75px;
