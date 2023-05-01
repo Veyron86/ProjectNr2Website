@@ -75,4 +75,11 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .links-in-footer {
+    display: flex;
+    justify-content: space-around;
+    
   }
